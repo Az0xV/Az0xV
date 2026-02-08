@@ -1,21 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Az0xV/Az0xV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Hello, I'm Peter I'm 18 years old.
+Hello, I'm **Peter** and I'm 18 years old.
 
 I would like to show my project, so you can get to know me better.
 
@@ -37,4 +22,11 @@ A challenging game, where you need to go from point A to point B.
 There's no time pressure or anything, that's why this game is calm, and one of my favorites.
 
 ## How to download a game?
-[CDN]
+In every unity game repository there is a download link at the end.
+
+If you click on the link, you download a zip file containing the game.
+
+Here's what to do with this file in 3 steps:
+1.  Extract the zip file, by clicking right mouse button on this .zip file in file explorer. Then a menu will show up, find and click "Extract All..."
+2.  A folder will show up, so open the folder.
+3.  Find .exe file inside, and open it. The game should start now, however it can be blocked by antivirus, and it's normal with uncertified applications. Stay safe!
