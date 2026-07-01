@@ -1,8 +1,8 @@
+<!---
 ## Hi
 
 I'm **Peter**.
 I am self learning game developer with some project already done. I constantly work at my project to show you them here.
-<!---
 I would like to show my projects, so you can get to know me better.
 
 ## [Platformer](https://github.com/Az0xV/Platformer) <<
